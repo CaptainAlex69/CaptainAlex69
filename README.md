@@ -2,7 +2,7 @@
 - 👀 I’m interested in pentesting
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me with ya arms
+- 📫 How to reach me discord @Captain Alex#6394
 
 <!---
 CaptainAlex69/CaptainAlex69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
